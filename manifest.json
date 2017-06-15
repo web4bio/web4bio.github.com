@@ -5,6 +5,9 @@
   "icons": [{
         "src": "web4bioApp.png",
         "sizes": "128x128"
+      },{
+        "src": "web4bioApp144.png",
+        "sizes": "144x144"
       }],
   "start_url": "https://web4bio.github.io",
   "display": "fullscreen"
