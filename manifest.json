@@ -3,8 +3,8 @@
   "name": " Web & Data Science for BioMedicine",
   "short_name": "Web4Bio",
   "icons": [{
-        "src": "favicon-96x96.png",
-        "sizes": "96x96"
+        "src": "web4bioApp.png",
+        "sizes": "128x128"
       }],
   "start_url": "https://web4bio.github.io",
   "display": "fullscreen"
